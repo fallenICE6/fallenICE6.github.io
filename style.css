@@ -34,3 +34,13 @@ body {
             color: #0056b3;
             text-decoration: underline;
         }
+            footer {
+            }
+             footer ul {
+             padding-left: 0;
+             list-style: none;
+             }
+             footer a {
+             color: #fff;
+             }
+
